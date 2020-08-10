@@ -1,4 +1,4 @@
-## RehabMan's laptop patch repository
+## RehabMan's laptop patch repositorymy name jeff
 
 This set of patches can be used in DSDT Editor or (preferably) MaciASL to apply
 some common patches to your laptop for running OS X.  These patches are common
